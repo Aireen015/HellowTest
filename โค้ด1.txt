@@ -5,4 +5,6 @@ void main() {
     for (i = 1; i &lt; 11; i++)
         sum += i;
     printf("Total = %d\n", sum);
+    
+    นางสาวอัยรีน อูมา ;
 }
