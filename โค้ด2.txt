@@ -7,4 +7,5 @@ void main() {
        printf(" Even\n");
     else
        printf(" Odd\n");
+       นางสาวอัยรีน อูมา ;
 }
